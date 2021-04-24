@@ -1,8 +1,7 @@
-# Article name here
+# How to set a Deletion Policy on a Resource in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-s3-presigned-url-react)
-`<- Update Link`
+[bobbyhadz.com](https://bobbyhadz.com/blog/set-deletion-policy-aws-cdk)
 
 ## How to Use
 
